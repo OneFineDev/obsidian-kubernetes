@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66f06d8af968e422",
+        "id": "c283dac7a644683a",
         "type": "tabs",
         "children": [
           {
-            "id": "f95142b87a7efa02",
+            "id": "ae5c201a8be5eb66",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d119a07d55c48eb5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "123c92aa374a3b9a",
@@ -217,7 +226,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb71000048d469f6",
+  "active": "ae5c201a8be5eb66",
   "lastOpenFiles": [
     "K8S - Core Concepts.md",
     "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Udemy_CKA_Course/Storage/Storage.md",
