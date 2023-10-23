@@ -228,12 +228,6 @@
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
       "cmdr:QuickAdd: Move Zettel to Private": false,
-      "obsidian-gallery:Gallery": false,
-      "obsidian-map-view:Open map view": false,
-      "open-vscode:VSCode": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
