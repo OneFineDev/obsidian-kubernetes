@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a8552d90f8568b48","x":765,"y":-750,"width":250,"height":60,"type":"text","text":""},
 		{"id":"a76ab2046195c232","type":"text","text":"Troubleshooting","x":580,"y":380,"width":250,"height":60,"color":"6"},
 		{"id":"65c77c5910455c74","type":"text","text":"Cluster Components\nand Primitives![[Pasted image 20231104123812.png]]","x":-280,"y":-368,"width":740,"height":648},
 		{"id":"63ea8dc75be61dc4","type":"text","text":"Storage","x":-690,"y":380,"width":250,"height":60,"color":"#8e6a48"},
@@ -10,9 +9,10 @@
 		{"id":"136c26b28e516347","type":"text","text":"Tools and commands","x":-35,"y":580,"width":250,"height":100},
 		{"id":"36f25ca154c2d395","type":"text","text":"Upgrading with `kubeadm`","x":-1290,"y":-488,"width":250,"height":100},
 		{"id":"3107790ae3c28855","type":"text","text":"Backup  and Restore `etcd` with `etcdctl`","x":-1290,"y":-240,"width":250,"height":120},
-		{"id":"23d931294a87ad72","type":"text","text":"RBAC","x":-1290,"y":-720,"width":250,"height":60},
-		{"id":"ff3f66287e9e5a09","type":"text","text":"Installation with `kubeadm`","x":-980,"y":-730,"width":250,"height":80},
-		{"id":"caa7eba6c6b11049","x":-980,"y":-229,"width":250,"height":99,"type":"text","text":"High Availability"}
+		{"id":"23d931294a87ad72","type":"text","text":"[[RBAC]]","x":-1290,"y":-720,"width":250,"height":108},
+		{"id":"ff3f66287e9e5a09","type":"text","text":"Installation with `kubeadm`","x":-980,"y":-750,"width":250,"height":100},
+		{"id":"caa7eba6c6b11049","type":"text","text":"High Availability","x":-980,"y":-229,"width":250,"height":99},
+		{"id":"a8552d90f8568b48","type":"text","text":"","x":765,"y":-750,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e61ed0ce5ea7a104","fromNode":"463b6c7d1f3bbe0c","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"left"},
