@@ -3,7 +3,7 @@
 [How to add bash auto completion in Ubuntu Linux - nixCraft (cyberciti.biz)](https://www.cyberciti.biz/faq/add-bash-auto-completion-in-ubuntu-linux/)
 **set aliases**
 `alias k=kubectl`
-`alias ks=kubeadm`
+`alias ka=kubeadm`
 `alias e=etcdctl`
 
 **setting ns and ctx**
