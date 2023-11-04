@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "docker notes",
-      "path": "docker notes.md"
-    },
-    {
       "basename": "top_level_mindmap",
       "path": "top_level_mindmap.canvas"
+    },
+    {
+      "basename": "Pasted image 20231104123812",
+      "path": "Pasted image 20231104123812.png"
+    },
+    {
+      "basename": "Command Line Tips",
+      "path": "Command Line Tips.md"
+    },
+    {
+      "basename": "docker notes",
+      "path": "docker notes.md"
     }
   ],
   "omittedPaths": [],

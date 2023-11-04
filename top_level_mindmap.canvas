@@ -1,8 +1,30 @@
 {
 	"nodes":[
-		{"id":"463b6c7d1f3bbe0c","x":-100,"y":-120,"width":250,"height":120,"type":"text","text":"Basic Cluster Architecture"},
-		{"id":"67ef046783734095","x":-161,"y":-349,"width":250,"height":60,"type":"text","text":"Installation"},
-		{"type":"text","text":"Backup/Restore","id":"a652a270563b5ab5","x":150,"y":-349,"width":250,"height":60}
+		{"id":"a8552d90f8568b48","x":765,"y":-750,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a76ab2046195c232","type":"text","text":"Troubleshooting","x":580,"y":380,"width":250,"height":60,"color":"6"},
+		{"id":"65c77c5910455c74","type":"text","text":"Cluster Components\nand Primitives![[Pasted image 20231104123812.png]]","x":-280,"y":-368,"width":740,"height":648},
+		{"id":"63ea8dc75be61dc4","type":"text","text":"Storage","x":-690,"y":380,"width":250,"height":60,"color":"#8e6a48"},
+		{"id":"463b6c7d1f3bbe0c","type":"text","text":"Cluster Architecture, Installation, and Configuration","x":-705,"y":-508,"width":280,"height":140,"color":"1"},
+		{"id":"88cf00ce0a02a6e0","type":"text","text":"Workloads and Scheduling","x":-35,"y":-660,"width":250,"height":96,"color":"4"},
+		{"id":"eb9c31ba9b176703","type":"text","text":"Services and Networking","x":580,"y":-508,"width":250,"height":140,"color":"#0008ff"},
+		{"id":"136c26b28e516347","type":"text","text":"Tools and commands","x":-35,"y":580,"width":250,"height":100},
+		{"id":"36f25ca154c2d395","type":"text","text":"Upgrading with `kubeadm`","x":-1290,"y":-488,"width":250,"height":100},
+		{"id":"3107790ae3c28855","type":"text","text":"Backup  and Restore `etcd` with `etcdctl`","x":-1290,"y":-240,"width":250,"height":120},
+		{"id":"23d931294a87ad72","type":"text","text":"RBAC","x":-1290,"y":-720,"width":250,"height":60},
+		{"id":"ff3f66287e9e5a09","type":"text","text":"Installation with `kubeadm`","x":-980,"y":-730,"width":250,"height":80},
+		{"id":"caa7eba6c6b11049","x":-980,"y":-229,"width":250,"height":99,"type":"text","text":"High Availability"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e61ed0ce5ea7a104","fromNode":"463b6c7d1f3bbe0c","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"left"},
+		{"id":"9e2bb775c741047e","fromNode":"88cf00ce0a02a6e0","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"top"},
+		{"id":"b736a81b42e55d10","fromNode":"eb9c31ba9b176703","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"right"},
+		{"id":"e77a2a72f2ef87ec","fromNode":"63ea8dc75be61dc4","fromSide":"right","toNode":"65c77c5910455c74","toSide":"bottom"},
+		{"id":"5ebc0cd2ecd344b3","fromNode":"a76ab2046195c232","fromSide":"left","toNode":"65c77c5910455c74","toSide":"bottom"},
+		{"id":"a1362c84fee5707a","fromNode":"136c26b28e516347","fromSide":"top","toNode":"65c77c5910455c74","toSide":"bottom"},
+		{"id":"9858c6ca6242f6df","fromNode":"23d931294a87ad72","fromSide":"bottom","toNode":"463b6c7d1f3bbe0c","toSide":"left"},
+		{"id":"6c5afaf833d056f3","fromNode":"ff3f66287e9e5a09","fromSide":"bottom","toNode":"463b6c7d1f3bbe0c","toSide":"left"},
+		{"id":"fdbf4ae41c6cfedc","fromNode":"36f25ca154c2d395","fromSide":"right","toNode":"463b6c7d1f3bbe0c","toSide":"left"},
+		{"id":"20fbde5a4fcca42b","fromNode":"3107790ae3c28855","fromSide":"top","toNode":"463b6c7d1f3bbe0c","toSide":"left"},
+		{"id":"b672ae49e07a323c","fromNode":"caa7eba6c6b11049","fromSide":"top","toNode":"463b6c7d1f3bbe0c","toSide":"left"}
+	]
 }
