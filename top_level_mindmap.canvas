@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a76ab2046195c232","type":"text","text":"Troubleshooting","x":580,"y":380,"width":250,"height":60,"color":"6"},
 		{"id":"65c77c5910455c74","type":"text","text":"Cluster Components\nand Primitives![[Pasted image 20231104123812.png]]","x":-280,"y":-368,"width":740,"height":648},
-		{"id":"63ea8dc75be61dc4","type":"text","text":"Storage","x":-690,"y":380,"width":250,"height":60,"color":"#8e6a48"},
+		{"id":"63ea8dc75be61dc4","type":"text","text":"Storage","x":-690,"y":380,"width":250,"height":60,"color":"5"},
 		{"id":"136c26b28e516347","type":"text","text":"Tools and commands","x":-35,"y":580,"width":250,"height":100},
 		{"id":"88cf00ce0a02a6e0","type":"text","text":"Workloads and Scheduling","x":-35,"y":-846,"width":250,"height":96,"color":"4"},
 		{"id":"814c7eeecc55cc7e","type":"text","text":"Updates and Rollbacks\n","x":-440,"y":-1098,"width":250,"height":88},
@@ -28,10 +28,10 @@
 		{"id":"3f1d4e62efc97883","x":-1080,"y":320,"width":250,"height":60,"type":"text","text":"Persistent Volumes"},
 		{"id":"f40cac971cdbdec7","x":-1080,"y":410,"width":250,"height":85,"type":"text","text":"Persistent Volume Claims"},
 		{"id":"3c0a400bcf5f460d","x":-1080,"y":530,"width":250,"height":50,"type":"text","text":"Storage Classes"},
-		{"id":"40f4b2c8b4b6e3bc","type":"text","text":"Cluster and Pod Logging","x":980,"y":190,"width":250,"height":100},
-		{"id":"9e047c540e87ee3f","type":"text","text":"Troubleshoot Application Failures","x":980,"y":580,"width":250,"height":85},
-		{"id":"b04c52fc8d192440","x":980,"y":453,"width":250,"height":104,"type":"text","text":"Troubleshoot Application Failures"},
-		{"id":"536e06fa15c1a66e","type":"text","text":"Monitoring Cluster Components and Applications","x":980,"y":320,"width":250,"height":120}
+		{"id":"536e06fa15c1a66e","type":"text","text":"Monitoring Cluster Components and Applications","x":1040,"y":220,"width":250,"height":120},
+		{"id":"b04c52fc8d192440","x":1040,"y":360,"width":250,"height":104,"type":"text","text":"Troubleshoot Application Failures"},
+		{"id":"40f4b2c8b4b6e3bc","type":"text","text":"Cluster and Pod Logging","x":1040,"y":484,"width":250,"height":100},
+		{"id":"9e047c540e87ee3f","type":"text","text":"Troubleshoot Application Failures","x":1040,"y":604,"width":250,"height":85}
 	],
 	"edges":[
 		{"id":"e61ed0ce5ea7a104","fromNode":"463b6c7d1f3bbe0c","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"left"},
@@ -60,6 +60,10 @@
 		{"id":"1826d60c8e4ce603","fromNode":"86fe15990dfb831f","fromSide":"right","toNode":"63ea8dc75be61dc4","toSide":"left"},
 		{"id":"4ed46734fb6d8211","fromNode":"3f1d4e62efc97883","fromSide":"right","toNode":"63ea8dc75be61dc4","toSide":"left"},
 		{"id":"3609899108ad3e87","fromNode":"f40cac971cdbdec7","fromSide":"right","toNode":"63ea8dc75be61dc4","toSide":"left"},
-		{"id":"f4776f7e32d7799d","fromNode":"3c0a400bcf5f460d","fromSide":"right","toNode":"63ea8dc75be61dc4","toSide":"left"}
+		{"id":"f4776f7e32d7799d","fromNode":"3c0a400bcf5f460d","fromSide":"right","toNode":"63ea8dc75be61dc4","toSide":"left"},
+		{"id":"95fe0332ca232160","fromNode":"536e06fa15c1a66e","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
+		{"id":"d80cd25243e4f6dd","fromNode":"b04c52fc8d192440","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
+		{"id":"671dd5c4484764cd","fromNode":"9e047c540e87ee3f","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
+		{"id":"8bbaf3654c9dc0e4","fromNode":"40f4b2c8b4b6e3bc","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"}
 	]
 }

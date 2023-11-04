@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Installation with kubeadm",
+      "path": "Installation with kubeadm.md"
+    },
+    {
       "basename": "top_level_mindmap",
       "path": "top_level_mindmap.canvas"
     },

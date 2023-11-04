@@ -16,9 +16,21 @@
                 "file": "top_level_mindmap.canvas",
                 "viewState": {
                   "x": 134.90909090909088,
-                  "y": 165.56493506493516,
+                  "y": -252.02922077922074,
                   "zoom": -0.5818363997344366
                 }
+              }
+            }
+          },
+          {
+            "id": "5cebc6d6f18862b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installation with kubeadm.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -34,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "top_level_mindmap.canvas"
+                "file": "Installation with kubeadm.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "top_level_mindmap.canvas",
+                "file": "Installation with kubeadm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "top_level_mindmap.canvas",
+                "file": "Installation with kubeadm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,11 +269,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "916e3e0589bcd4a5",
+  "active": "5cebc6d6f18862b3",
   "lastOpenFiles": [
+    "top_level_mindmap.canvas",
+    "Installation with kubeadm.md",
     "Pasted image 20231104123812.png",
     "RBAC.md",
-    "top_level_mindmap.canvas",
     "Command Line Tips.md",
     "docker notes.md",
     "K8S - Core Concepts.md",
@@ -305,7 +319,6 @@
     "System/Attachments/Pasted image 20230804174203.png",
     "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Udemy_CKA_Course/Storage",
     "Inbox/Computer Capture/2023-08-03-22-56-31.md",
-    "Inbox/Computer Capture/2023-08-03-22-56-12.md",
     "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Kubernetes.canvas",
     "_PARA/Projects/Test Project 2/Canvas.canvas"
   ]
