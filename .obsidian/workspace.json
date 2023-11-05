@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command Line Tips.md"
+                "file": "top_level_mindmap.canvas"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command Line Tips.md",
+                "file": "top_level_mindmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command Line Tips.md",
+                "file": "top_level_mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "file": "top_level_mindmap.canvas",
                 "viewState": {
                   "x": -6.731852842399007,
-                  "y": 212.0536043136588,
+                  "y": 12.612039368581293,
                   "zoom": -1.100663486953935
                 }
               }
@@ -241,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 623.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,13 +269,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5cebc6d6f18862b3",
+  "active": "c0539c2690f1a2eb",
   "lastOpenFiles": [
+    "Command Line Tips.md",
     "top_level_mindmap.canvas",
     "Installation with kubeadm.md",
     "Pasted image 20231104123812.png",
     "RBAC.md",
-    "Command Line Tips.md",
     "docker notes.md",
     "K8S - Core Concepts.md",
     "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Udemy_CKA_Course/Storage/Storage.md",
