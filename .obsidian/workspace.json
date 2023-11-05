@@ -26,11 +26,14 @@
             "id": "5cebc6d6f18862b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Command Line Tips.md",
-                "mode": "source",
-                "source": false
+                "file": "top_level_mindmap.canvas",
+                "viewState": {
+                  "x": 339.3873046331365,
+                  "y": 91.33966269612772,
+                  "zoom": -0.33313730166771655
+                }
               }
             }
           },
@@ -241,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +272,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c0539c2690f1a2eb",
+  "active": "5cebc6d6f18862b3",
   "lastOpenFiles": [
     "Command Line Tips.md",
     "top_level_mindmap.canvas",
