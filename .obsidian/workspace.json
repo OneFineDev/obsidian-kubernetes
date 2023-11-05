@@ -26,14 +26,11 @@
             "id": "5cebc6d6f18862b3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "top_level_mindmap.canvas",
-                "viewState": {
-                  "x": 125.76098677341724,
-                  "y": -156.3067037460346,
-                  "zoom": -1.6664706350010496
-                }
+                "file": "Command Line Tips.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -145,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "top_level_mindmap.canvas"
+                "file": "Command Line Tips.md"
               }
             }
           },
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "top_level_mindmap.canvas",
+                "file": "Command Line Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "top_level_mindmap.canvas",
+                "file": "Command Line Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,9 +271,9 @@
   },
   "active": "5cebc6d6f18862b3",
   "lastOpenFiles": [
+    "top_level_mindmap.canvas",
     "Untitled",
     "Command Line Tips.md",
-    "top_level_mindmap.canvas",
     "Installation with kubeadm.md",
     "Pasted image 20231104123812.png",
     "RBAC.md",
@@ -321,7 +318,6 @@
     "System/Attachments/Pasted image 20230804175024.png",
     "System/Attachments/Pasted image 20230804174741.png",
     "System/Attachments/Pasted image 20230804174203.png",
-    "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Udemy_CKA_Course/Storage",
     "Inbox/Computer Capture/2023-08-03-22-56-31.md",
     "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Kubernetes.canvas",
     "_PARA/Projects/Test Project 2/Canvas.canvas"
