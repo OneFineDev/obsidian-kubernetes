@@ -30,9 +30,9 @@
               "state": {
                 "file": "top_level_mindmap.canvas",
                 "viewState": {
-                  "x": 339.3873046331365,
-                  "y": 91.33966269612772,
-                  "zoom": -0.33313730166771655
+                  "x": 125.76098677341724,
+                  "y": -156.3067037460346,
+                  "zoom": -1.6664706350010496
                 }
               }
             }
@@ -274,6 +274,7 @@
   },
   "active": "5cebc6d6f18862b3",
   "lastOpenFiles": [
+    "Untitled",
     "Command Line Tips.md",
     "top_level_mindmap.canvas",
     "Installation with kubeadm.md",
