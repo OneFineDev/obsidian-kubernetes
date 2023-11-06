@@ -22,7 +22,7 @@ kubectl config set-credentials johndoe \
 --client-certificate=johndoe.crt --client-key=johndoe.key
 
 # Set the context
-kubectl config set-context johndoe-context --cluster=kubernetes-admin@kubernetes --user=johndoe
+kubectl config set-context johndoe-context --cluster=kubernetes --user=johndoe
 ```
 ``
 
