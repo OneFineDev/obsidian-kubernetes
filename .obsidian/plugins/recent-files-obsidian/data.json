@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Command Line Tips",
-      "path": "Command Line Tips.md"
-    },
-    {
       "basename": "top_level_mindmap",
       "path": "top_level_mindmap.canvas"
+    },
+    {
+      "basename": "Command Line Tips",
+      "path": "Command Line Tips.md"
     },
     {
       "basename": "Installation with kubeadm",

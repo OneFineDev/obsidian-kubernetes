@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command Line Tips.md"
+                "file": "top_level_mindmap.canvas"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command Line Tips.md",
+                "file": "top_level_mindmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command Line Tips.md",
+                "file": "top_level_mindmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "file": "top_level_mindmap.canvas",
                 "viewState": {
                   "x": -6.731852842399007,
-                  "y": 12.612039368581293,
+                  "y": 212.05360431365875,
                   "zoom": -1.100663486953935
                 }
               }
@@ -241,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 1060.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,11 +269,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5cebc6d6f18862b3",
+  "active": "c0539c2690f1a2eb",
   "lastOpenFiles": [
+    "Command Line Tips.md",
     "top_level_mindmap.canvas",
     "Untitled",
-    "Command Line Tips.md",
     "Installation with kubeadm.md",
     "Pasted image 20231104123812.png",
     "RBAC.md",
