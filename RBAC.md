@@ -30,6 +30,8 @@ kubectl config set-context johndoe-context --cluster=kubernetes-admin@kubernetes
 - Any pod that doesn't explicitly assign a service account uses the default service account.
 
 
+
+
 # RBAC API Primitives
 
 
