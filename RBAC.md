@@ -20,12 +20,14 @@ sudo openssl x509 -req -in johndoe.csr -CA /etc/kubernetes/pki/ca.crt -CAkey /et
 #Creat the user in kubernetes by setting entry in kubeconfig for user and pint to CRT and key file
 kubectl config set-credentials johndoe \
 --client-certificate=johndoe.crt --client-key=johndoe.key
+
+# Set the context
+kubectl config set-context johndoe-context --cluster=kubernetes-admin@kubernetes --user=johndoe
 ```
 ``
 
-
 # Service Accounts
-
+- Any pod that doesn't explicitly assign a service account uses the default service account.
 
 
 # RBAC API Primitives
