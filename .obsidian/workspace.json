@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command Line Tips.md",
+                "file": "RBAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
       {
         "id": "445da47fa2027b35",
         "type": "tabs",
-        "dimension": 16.077170418006432,
+        "dimension": 36.41703377386197,
         "children": [
           {
             "id": "0ea8270667a236d5",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "top_level_mindmap.canvas"
+                "file": "RBAC.md"
               }
             }
           },
@@ -163,49 +163,24 @@
             }
           },
           {
-            "id": "b2366c5f22fd393c",
+            "id": "0d69d202e22122af",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "markdown",
               "state": {
-                "file": "top_level_mindmap.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Command Line Tips.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "95b6087e60f8d04c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "top_level_mindmap.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d119a07d55c48eb5",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "123c92aa374a3b9a",
         "type": "tabs",
-        "dimension": 51.848874598070736,
+        "dimension": 42.80469897209985,
         "children": [
           {
             "id": "c0539c2690f1a2eb",
@@ -216,7 +191,7 @@
                 "file": "top_level_mindmap.canvas",
                 "viewState": {
                   "x": -6.731852842399007,
-                  "y": 212.05360431365875,
+                  "y": -163.74271373033855,
                   "zoom": -1.100663486953935
                 }
               }
@@ -227,7 +202,7 @@
       {
         "id": "bcead9a5a9dae284",
         "type": "tabs",
-        "dimension": 32.07395498392283,
+        "dimension": 20.77826725403818,
         "children": [
           {
             "id": "0e304afb8235c993",
@@ -241,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1060.5
+    "width": 795.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +244,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c0539c2690f1a2eb",
+  "active": "5cebc6d6f18862b3",
   "lastOpenFiles": [
     "Command Line Tips.md",
     "top_level_mindmap.canvas",

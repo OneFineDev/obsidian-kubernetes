@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "top_level_mindmap",
-      "path": "top_level_mindmap.canvas"
+      "basename": "RBAC",
+      "path": "RBAC.md"
     },
     {
       "basename": "Command Line Tips",
       "path": "Command Line Tips.md"
+    },
+    {
+      "basename": "top_level_mindmap",
+      "path": "top_level_mindmap.canvas"
     },
     {
       "basename": "Installation with kubeadm",
@@ -15,10 +19,6 @@
     {
       "basename": "Pasted image 20231104123812",
       "path": "Pasted image 20231104123812.png"
-    },
-    {
-      "basename": "RBAC",
-      "path": "RBAC.md"
     },
     {
       "basename": "docker notes",
