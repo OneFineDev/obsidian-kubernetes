@@ -28,14 +28,43 @@ kubectl config set-context johndoe-context --cluster=kubernetes-admin@kubernetes
 
 # Service Accounts
 - Any pod that doesn't explicitly assign a service account uses the default service account.
+- Since 1.24, secrets are not automatically created with a service account. When a SA is assigned to a Pod, a temporary secret is auto mounted into the pod.
+```bash
+kubectl create token <SA>
+```
 
+- To assign SA to a pod:
+``` bash
+kubectl run build-observer --image=alpine --restart=Never \
+--serviceaccount=build-bot
+```
 
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+name: build-observer
+spec:
+serviceAccountName: build-bot
+```
 
-
+- To create a secret explicitly for SA:
+```yaml
+apiVersion: v1
+kind: Secret
+type: kubernetes.io/service-account-token
+metadata:
+  name: mysecretname
+  annotations:
+    kubernetes.io/service-account.name: "build-bot"
+```
 # RBAC API Primitives
+**Role**
+The API resource and the Operations allowed on them
+**RoleBinding**
+Links the Roel to a Subject
 
 
-# Roles and RoleBindings
 
 
 # RBAC Scopes - NS and Cluster
