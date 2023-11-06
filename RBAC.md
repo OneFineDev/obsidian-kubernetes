@@ -62,9 +62,14 @@ metadata:
 **Role**
 The API resource and the Operations allowed on them
 **RoleBinding**
-Links the Roel to a Subject
+Links the Role to a Subject
 
+- Check user permissions
+```bash
+kubectl auth can-i --list --as johndoe
 
+kubectl auth can-i list pods --as johndoe
+```
 
 
 # RBAC Scopes - NS and Cluster
