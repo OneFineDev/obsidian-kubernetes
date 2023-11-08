@@ -71,7 +71,6 @@ kubectl auth can-i --list --as johndoe
 kubectl auth can-i list pods --as johndoe
 ```
 
-
 # RBAC Scopes - NS and Cluster
 
 
