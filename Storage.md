@@ -82,4 +82,40 @@ spec:
 | Delete  | PV gets nuked                                                       |
 | Recycle | DEPRECATED                                                          | 
 
----
+## Persistent Volume Claim
+
+``` yaml
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+	name: db-pvc
+spec:
+	accessModes:
+		- ReadWriteOnce  # Previous PV satisfies this
+	storageClassName: ""
+	resources:
+		requests:
+			storage: 256Mi # Is available in the pv
+```
+
+## Mounting the PVC
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: app-consuming-pvc
+spec:
+  volumes:
+    - name: app-storage # give the PVC a name in the pod volume 
+      persistentVolumeClaim:
+        claimName: db-pvc #Specify the PVC to mount it
+  containers:
+    - image: alpine
+      name: app
+      command: ["/bin/sh"]
+      args: ["-c", "while true; do sleep 60; done;"]
+      volumeMounts:
+        - mountPath: "/mnt/data" # location to mount the PV assigned through the PVC
+          name: app-storage 
+```
+
