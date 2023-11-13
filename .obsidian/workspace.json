@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "912968ff911477d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f06b0e3846a7b3dd",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RBAC.md"
+                "file": "Storage.md"
               }
             }
           },
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RBAC.md",
+                "file": "Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RBAC.md",
+                "file": "Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +231,9 @@
               "state": {
                 "file": "top_level_mindmap.canvas",
                 "viewState": {
-                  "x": -6.731852842399007,
-                  "y": -163.74271373033855,
-                  "zoom": -1.100663486953935
+                  "x": -670.8913987527745,
+                  "y": 413.5457391503612,
+                  "zoom": -0.4339968202872683
                 }
               }
             }
@@ -273,14 +285,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5cebc6d6f18862b3",
+  "active": "912968ff911477d0",
   "lastOpenFiles": [
-    "Command Line Tips.md",
+    "RBAC.md",
+    "Storage.md",
     "top_level_mindmap.canvas",
+    "Command Line Tips.md",
     "Untitled",
     "Installation with kubeadm.md",
     "Pasted image 20231104123812.png",
-    "RBAC.md",
     "docker notes.md",
     "K8S - Core Concepts.md",
     "_PARA/Domain-Technology/Pillar-DevOps_SRE_PE/Area-Docker_K8S/Resource-Authored/Udemy_CKA_Course/Storage/Storage.md",
