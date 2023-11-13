@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "123c92aa374a3b9a",
@@ -257,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 795.5
+    "width": 722.5
   },
   "left-ribbon": {
     "hiddenItems": {
