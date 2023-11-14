@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Workloads - Deployments",
+      "path": "Workloads - Deployments.md"
+    },
+    {
+      "basename": "top_level_mindmap",
+      "path": "top_level_mindmap.canvas"
+    },
+    {
       "basename": "Storage",
       "path": "Storage.md"
     },
     {
       "basename": "RBAC",
       "path": "RBAC.md"
-    },
-    {
-      "basename": "top_level_mindmap",
-      "path": "top_level_mindmap.canvas"
     },
     {
       "basename": "Command Line Tips",
