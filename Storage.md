@@ -119,3 +119,5 @@ spec:
           name: app-storage 
 ```
 
+## Storage Classes
+
