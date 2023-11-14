@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Workloads - Taints, Tolerations, Node Affinity",
+      "path": "Workloads - Taints, Tolerations, Node Affinity.md"
+    },
+    {
+      "basename": "Workloads - Scaling",
+      "path": "Workloads - Scaling.md"
+    },
+    {
       "basename": "Workloads - Deployments",
       "path": "Workloads - Deployments.md"
     },

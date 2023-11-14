@@ -2,6 +2,12 @@
 **ReplicaSet Primitive**
 **Rollout/Rollback**
 
+## Commands
+`kubectl set image deployment app-cache memcached=memcached:1.6.10 --record`
+`kubectl edit deployment`
+`kubectl rollout status`
+`kubectl rollout history`
+
 ----
 
 *Deployments*: 
@@ -34,3 +40,8 @@ spec:
           image: memcached:latest
 
 ```
+
+## Rollout, Rollback
+
+`kubectl rollout undo deployment app-cache --to-revision=1`
+
