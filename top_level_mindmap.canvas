@@ -29,8 +29,9 @@
 		{"id":"caa7eba6c6b11049","type":"text","text":"High Availability","x":-1245,"y":-45,"width":250,"height":99},
 		{"id":"ff3f66287e9e5a09","type":"text","text":"Installation with `kubeadm`","x":-1245,"y":-556,"width":250,"height":100},
 		{"id":"2380d06c8434e24b","type":"text","text":"Secrets","x":-405,"y":-828,"width":250,"height":60},
-		{"id":"814c7eeecc55cc7e","type":"text","text":"Deployments, Updates and Rollbacks\n","x":-405,"y":-1054,"width":250,"height":103},
-		{"id":"34585d372d772631","type":"text","text":"Config Maps","x":-405,"y":-646,"width":250,"height":60}
+		{"id":"814c7eeecc55cc7e","type":"text","text":"Deployments, Updates and Rollbacks\n","x":-405,"y":-1054,"width":250,"height":103,"color":"3"},
+		{"id":"34585d372d772631","type":"text","text":"Config Maps","x":-405,"y":-646,"width":250,"height":60},
+		{"id":"fe1060c426298279","x":-35,"y":-1025,"width":250,"height":60,"color":"3","type":"text","text":"Scaling"}
 	],
 	"edges":[
 		{"id":"e61ed0ce5ea7a104","fromNode":"463b6c7d1f3bbe0c","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"left"},
@@ -62,6 +63,7 @@
 		{"id":"95fe0332ca232160","fromNode":"536e06fa15c1a66e","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
 		{"id":"d80cd25243e4f6dd","fromNode":"b04c52fc8d192440","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
 		{"id":"671dd5c4484764cd","fromNode":"9e047c540e87ee3f","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
-		{"id":"8bbaf3654c9dc0e4","fromNode":"40f4b2c8b4b6e3bc","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"}
+		{"id":"8bbaf3654c9dc0e4","fromNode":"40f4b2c8b4b6e3bc","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
+		{"id":"fc913e797acbf969","fromNode":"fe1060c426298279","fromSide":"bottom","toNode":"88cf00ce0a02a6e0","toSide":"top"}
 	]
 }

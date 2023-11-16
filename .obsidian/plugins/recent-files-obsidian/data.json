@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Workloads - ConfigMaps and Secrets",
+      "path": "Workloads - ConfigMaps and Secrets.md"
+    },
+    {
+      "basename": "top_level_mindmap",
+      "path": "top_level_mindmap.canvas"
+    },
+    {
       "basename": "Workloads - Scaling",
       "path": "Workloads - Scaling.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Workloads - Taints, Tolerations, Node Affinity, Pod Affinity, Pod Topology constraints",
       "path": "Workloads - Taints, Tolerations, Node Affinity, Pod Affinity, Pod Topology constraints.md"
-    },
-    {
-      "basename": "top_level_mindmap",
-      "path": "top_level_mindmap.canvas"
     },
     {
       "basename": "Storage",
