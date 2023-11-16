@@ -45,3 +45,15 @@ spec:
 
 `kubectl rollout undo deployment app-cache --to-revision=1`
 
+## Strategy
+**RollingUpdate**
+- Slowly swaps out pods
+- Max surge: proportion of pods that can exist above the replica number during an update (i.e. 1/4 above)
+- Max unavailable, same
+
+**Recreate**
+- fully removes all pods, then adds the new versions
+
+**Blue/Green**
+- Not built in, but can be manually achieved using a separate deployment for Blue and Green, and a LoadBalancer service with the appropriate labels to switch between.
+- To rollback, recreate LB pointing at previous service.
