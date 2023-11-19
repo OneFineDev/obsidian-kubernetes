@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Workloads - Deployments",
+      "path": "Workloads - Deployments.md"
+    },
+    {
       "basename": "Workloads - ConfigMaps and Secrets",
       "path": "Workloads - ConfigMaps and Secrets.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Workloads - StatefulSets and ReplicaSets",
       "path": "Workloads - StatefulSets and ReplicaSets.md"
-    },
-    {
-      "basename": "Workloads - Deployments",
-      "path": "Workloads - Deployments.md"
     },
     {
       "basename": "Workloads - Taints, Tolerations, Node Affinity, Pod Affinity, Pod Topology constraints",
