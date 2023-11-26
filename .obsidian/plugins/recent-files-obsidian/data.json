@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "docker notes",
+      "path": "docker notes.md"
+    },
+    {
       "basename": "Workloads - Deployments",
       "path": "Workloads - Deployments.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Pasted image 20231104123812",
       "path": "Pasted image 20231104123812.png"
-    },
-    {
-      "basename": "docker notes",
-      "path": "docker notes.md"
     }
   ],
   "omittedPaths": [],

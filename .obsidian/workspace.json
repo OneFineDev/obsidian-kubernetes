@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workloads - Deployments.md",
+                "file": "docker notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workloads - Deployments.md"
+                "file": "docker notes.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workloads - Deployments.md",
+                "file": "docker notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workloads - Deployments.md",
+                "file": "docker notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,11 +347,11 @@
   },
   "active": "63783e5d19404eb7",
   "lastOpenFiles": [
+    "Workloads - Deployments.md",
     "Workloads - ConfigMaps and Secrets.md",
     "top_level_mindmap.canvas",
     "Workloads - Scaling.md",
     "Workloads - StatefulSets and ReplicaSets.md",
-    "Workloads - Deployments.md",
     "Workloads - Taints, Tolerations, Node Affinity, Pod Affinity, Pod Topology constraints.md",
     "Storage.md",
     "RBAC.md",
