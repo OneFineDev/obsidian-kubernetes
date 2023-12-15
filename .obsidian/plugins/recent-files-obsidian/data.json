@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "top_level_mindmap",
+      "path": "top_level_mindmap.canvas"
+    },
+    {
+      "basename": "Storage - Troubleshooting",
+      "path": "Storage - Troubleshooting.md"
+    },
+    {
+      "basename": "Storage",
+      "path": "Storage.md"
+    },
+    {
       "basename": "docker notes",
       "path": "docker notes.md"
     },
@@ -13,10 +25,6 @@
       "path": "Workloads - ConfigMaps and Secrets.md"
     },
     {
-      "basename": "top_level_mindmap",
-      "path": "top_level_mindmap.canvas"
-    },
-    {
       "basename": "Workloads - Scaling",
       "path": "Workloads - Scaling.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Workloads - Taints, Tolerations, Node Affinity, Pod Affinity, Pod Topology constraints",
       "path": "Workloads - Taints, Tolerations, Node Affinity, Pod Affinity, Pod Topology constraints.md"
-    },
-    {
-      "basename": "Storage",
-      "path": "Storage.md"
     },
     {
       "basename": "RBAC",

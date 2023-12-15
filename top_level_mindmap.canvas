@@ -31,7 +31,8 @@
 		{"id":"2380d06c8434e24b","type":"text","text":"Secrets","x":-405,"y":-828,"width":250,"height":60},
 		{"id":"814c7eeecc55cc7e","type":"text","text":"Deployments, Updates and Rollbacks\n","x":-405,"y":-1054,"width":250,"height":103,"color":"3"},
 		{"id":"34585d372d772631","type":"text","text":"Config Maps","x":-405,"y":-646,"width":250,"height":60},
-		{"id":"fe1060c426298279","x":-35,"y":-1025,"width":250,"height":60,"color":"3","type":"text","text":"Scaling"}
+		{"id":"fe1060c426298279","type":"text","text":"Scaling","x":-35,"y":-1025,"width":250,"height":60,"color":"3"},
+		{"id":"057eeea364b616a1","type":"text","text":"Troubleshooting\n","x":-1080,"y":620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e61ed0ce5ea7a104","fromNode":"463b6c7d1f3bbe0c","fromSide":"bottom","toNode":"65c77c5910455c74","toSide":"left"},
@@ -64,6 +65,7 @@
 		{"id":"d80cd25243e4f6dd","fromNode":"b04c52fc8d192440","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
 		{"id":"671dd5c4484764cd","fromNode":"9e047c540e87ee3f","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
 		{"id":"8bbaf3654c9dc0e4","fromNode":"40f4b2c8b4b6e3bc","fromSide":"left","toNode":"a76ab2046195c232","toSide":"right"},
-		{"id":"fc913e797acbf969","fromNode":"fe1060c426298279","fromSide":"bottom","toNode":"88cf00ce0a02a6e0","toSide":"top"}
+		{"id":"fc913e797acbf969","fromNode":"fe1060c426298279","fromSide":"bottom","toNode":"88cf00ce0a02a6e0","toSide":"top"},
+		{"id":"5bfcfc8b3b7d876e","fromNode":"057eeea364b616a1","fromSide":"right","toNode":"63ea8dc75be61dc4","toSide":"left"}
 	]
 }
