@@ -134,9 +134,11 @@
             "id": "6dee1d6cd77022a1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "docker notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -219,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 479.5
   },
   "right": {
     "id": "e1f0d18a9b16f3a2",
@@ -236,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "top_level_mindmap.canvas"
+                "file": "docker notes.md"
               }
             }
           },
@@ -274,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "top_level_mindmap.canvas",
+                "file": "docker notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "top_level_mindmap.canvas",
+                "file": "docker notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +341,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1008.5
+    "width": 760.5
   },
   "left-ribbon": {
     "hiddenItems": {

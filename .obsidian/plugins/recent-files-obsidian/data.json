@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "docker notes",
+      "path": "docker notes.md"
+    },
+    {
       "basename": "top_level_mindmap",
       "path": "top_level_mindmap.canvas"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Storage",
       "path": "Storage.md"
-    },
-    {
-      "basename": "docker notes",
-      "path": "docker notes.md"
     },
     {
       "basename": "Workloads - Deployments",
